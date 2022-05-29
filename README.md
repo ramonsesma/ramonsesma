@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ramonsesma
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...AWS
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...ramonsesma@me.com
 
 <!---
 ramonsesma/ramonsesma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
