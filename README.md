@@ -1,6 +1,6 @@
 <h1 align="center">Ramon Sesma Vasconcelos</h1>
 <p align="center">
-  <em>Creative & Art Director | Producer | AdOps & Trafficker | Marketing | Cloud AWS | Design · Storytelling · Web3 | Photography | Vibe Coder| Digital Communication |</em><br>
+  <em>Creative & Art Director | Producer | AdOps & Trafficker | Marketing | Cloud AWS |Industrial Design | Photography | Vibe Coder| Digital Communication |</em><br>
   <sub>Mexico City, Mexico</sub>
 </p>
 <p align="center">
