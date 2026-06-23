@@ -37,7 +37,7 @@ Meta Ads · Google Ads · Messenger Ads · Audience Segmentation · Facebook Ana
 Production
 Multidisciplinary team leadership · Productivity KPIs · Audiovisual production · Budget & timeline management
 
-Tech AI & Cloud
+Tech AI 
 Vibe Coding · Cloud Computing · Applied AI Architecture · AWS (Emerging Talent) · Web3 · Blockchain  · CMS
 
 
