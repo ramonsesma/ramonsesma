@@ -38,7 +38,7 @@ Production
 Multidisciplinary team leadership · Productivity KPIs · Audiovisual production · Budget & timeline management
 
 Tech AI 
-Vibe Coding · Cloud Computing · Applied AI Architecture · AWS (Emerging Talent) · Web3 · Blockchain  · CMS
+Software Dev · Cloud Computing · Applied AI Architecture · AWS (Emerging Talent) · Web3 · Blockchain  · CMS
 
 
 🚀 Projects
