@@ -21,24 +21,12 @@
 
 👋 About me
 
-Visual and creative thinker with over a decade of experience bridging design, production, digital marketing, and art direction. I work at the intersection of aesthetics and data: from storytelling and museum curation to campaign performance, audience segmentation, and ROI optimization.
-
-My approach is holistic: research, conceptualize, produce, and measure. I move comfortably between the design studio, the edit suite, the Ads dashboard, and the cloud console.
+▎ Builder at the intersection of creative direction and technical execution — 20 years translating what a client or business needs into what a team actually ships. Currently building AI-assisted tools (Live Studio, a SuperCollider audio ecosystem) and going deep on cloud/AI infrastructure (AWS Certified, Claude Architect in progress). Background spans design studio, edit suite, and cloud console.
 
 
 🧰 Stack & Skills
 
-Creative & Design
-Art Direction · Editorial Design · UI / Mailings · Photography · Retouching · Cinematography
-
-Marketing & AdOps
-Meta Ads · Google Ads · Messenger Ads · Audience Segmentation · Facebook Analytics · KPI & Reporting · Trafficking
-
-Production
-Multidisciplinary team leadership · Productivity KPIs · Audiovisual production · Budget & timeline management
-
-Tech AI 
-Software Dev · Cloud Computing · Applied AI Architecture · AWS (Emerging Talent) · Web3 · Blockchain  · CMS
+▎ AI-assisted software development (TypeScript, Zig) · Cloud computing (AWS, Google Workspace Admin) · Audio/systems programming (SuperCollider)
 
 
 🚀 Projects
