@@ -1,6 +1,6 @@
 <h1 align="center">Ramon Sesma Vasconcelos</h1>
 <p align="center">
-  <em>Creative & Art Director | Producer | AdOps & Trafficker | Marketing | Cloud AWS |Industrial Design | Photography | Applied AI | Digital Communication |</em><br>
+  <em>Builder — Live Studio (144 modules, 414 tools, AI copilot for Ableton Live) and a SuperCollider audio-programming ecosystem. Also: 20 years bridging creative direction and technical execution. AWS Certified · Applied AI.</em><br>
   <sub>Mexico City, Mexico</sub>
 </p>
 <p align="center">
