@@ -21,12 +21,12 @@
 
 👋 About me
 
-▎ Builder at the intersection of creative direction and technical execution — 20 years translating what a client or business needs into what a team actually ships. Currently building AI-assisted tools (Live Studio, a SuperCollider audio ecosystem) and going deep on cloud/AI infrastructure (AWS Certified, Claude Architect in progress). Background spans design studio, edit suite, and cloud console.
+Builder at the intersection of creative direction and technical execution — 20 years translating what a client or business needs into what a team actually ships. Currently building AI-assisted tools (Live Studio, a SuperCollider audio ecosystem) and going deep on cloud/AI infrastructure (AWS Certified, Claude Architect in progress). Background spans design studio, edit suite, and cloud console.
 
 
 🧰 Stack & Skills
 
-▎ AI-assisted software development (TypeScript, Zig) · Cloud computing (AWS, Google Workspace Admin) · Audio/systems programming (SuperCollider)
+AI-assisted software development (TypeScript, Zig) · Cloud computing (AWS, Google Workspace Admin) · Audio/systems programming (SuperCollider)
 
 
 🚀 Projects
@@ -35,20 +35,10 @@
 
 Mobile app redefining how museums share their permanent collections and temporary exhibitions.
 
-
 Immersive exploration of collections and artworks
 Personalized tours based on visitor interests
 Multimedia content, narratives, and interactive experiences
 Schedule of events, talks, and activities
-
-
-🏛️ Advento — Art, Design & Architecture
-
-Interdisciplinary platform born in 1995 under the concept of social architecture. A bridge between artisanal Mexico and contemporary design, activating aesthetics in social and territorial contexts.
-
-🇮🇹🇲🇽 Forum Italia–México · La Casa Ideal
-
-On-site structure created for the XXI International Exhibition of the Milan Triennale, with 18+ authors, companies, and institutions. An alliance between Mexican designers and Italian artisans: "Created in Mexico and made in Italy."
 
 
 🎤 Speaking
