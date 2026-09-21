@@ -1,7 +1,7 @@
 <h1 align="center">Ramon Sesma Vasconcelos</h1>
 <p align="center">
   <em>Builder — Live Studio (144 modules, 414 tools, AI copilot for Ableton Live) and a SuperCollider audio-programming ecosystem. Bridging creative direction and technical execution. AWS Certified · Applied AI.</em><br>
-  <sub>Mexico City, Mexico</sub>
+  <sub></sub>
 </p>
 <p align="center">
   <img alt="Location" src="https://img.shields.io/badge/MX-CDMX-006847?style=flat">
